@@ -1,0 +1,9 @@
+{
+	"name": "scADFProd01",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3a22e4c-8034-46e4-ad2c-c45dfc0cde3b",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
